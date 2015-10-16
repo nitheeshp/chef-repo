@@ -1,0 +1,1 @@
+default['actional-server']['base-url'] = "https://vdi2-s3-nas:EAsSLfL6UK3wpr.X@vdi2.aurea.local"
